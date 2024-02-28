@@ -1,2 +1,2 @@
 # car-game
-this game is created by using html, css and javascript.
+this game is created by using  simple html, css and javascript.
